@@ -1,2 +1,0 @@
-# reactStarter
-React Tutorial
